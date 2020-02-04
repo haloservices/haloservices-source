@@ -1,0 +1,11 @@
+[Protocol]
+exec=halocoin-qt '%u'
+protocol=halocoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

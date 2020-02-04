@@ -1,0 +1,5 @@
+halocoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/halocoin-qt.desktop usr/share/applications
+debian/halocoin-qt.protocol usr/share/kde4/services/
